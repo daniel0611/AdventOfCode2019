@@ -1,4 +1,4 @@
-package com.github.daniel0611.adventofcode2019
+package com.github.daniel0611.adventofcode2019.week2
 
 import scala.io.Source
 
